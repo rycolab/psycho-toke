@@ -1,7 +1,7 @@
 ![](./titlebox.png)
 
 Mario Giulianelli, Luca Malagutti, Juan Luis Gastaldi, Brian DuSell, Tim Vieira, and Ryan Cotterell. 2024.
-[On the proper treatment of tokenization in psycholinguistics](https://arxiv.org/abs/2410.02691).
+[On the Proper Treatment of Tokenization in Psycholinguistics](https://arxiv.org/abs/2410.02691).
 In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_.
 
 ----------
