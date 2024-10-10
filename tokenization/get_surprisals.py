@@ -36,8 +36,8 @@ if __name__ == "__main__":
                     x = x.strip()
                     C = character_beam_estimator(llm, K=5)
                     surprisals = get_string_surprisals(x, C)
-                    for token, surp in surprisals:
-                        fout.write(f"{x_id} {token} {surp}\n")
+                    for char, surp in surprisals:
+                        fout.write(f"{x_id} {char} {surp}\n")
                     fout.write("\n")
                     fout.flush()
                     C.llm.clear_cache()
